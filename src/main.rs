@@ -1,6 +1,5 @@
 use rand::Rng;
-use std::cmp::Ordering;
-use std::io;
+use std::{cmp::Ordering, io};
 
 fn main() {
     println!("Guess a number between 1-100");
